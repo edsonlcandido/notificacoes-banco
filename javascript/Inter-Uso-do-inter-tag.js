@@ -11,7 +11,8 @@ const descricao = descricaoMatch ? descricaoMatch[1] : null;
 // Criar o objeto com as informações extraídas
 const resultado = {
   valor: valor,
-  descricao: descricao
+  descricao: descricao,
+  conta: "INTER"
 };
 
 // Retornar o objeto no formato esperado
