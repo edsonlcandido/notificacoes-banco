@@ -1,4 +1,4 @@
-const texto = "Você recebeu um Pix de José XXX.456.789-XX do(a) PICPAY, no valor de R$ 167,32 em 20/09/2024.";
+const texto = $('Tipo Itau').item.json.message ;
 
 // Extrair o valor em formato numérico, considerando o formato com vírgula
 const valorMatch = texto.match(/R\$ ?(\d+,\d{2})/);
@@ -12,7 +12,8 @@ const descricao = descricaoMatch ? `Pix de ${descricaoMatch[1]}` : null;
 const resultado = {
   valor: valor,
   descricao: descricao,
-  conta: "ITAÚ"
+  conta: "ITAÚ",
+  data: $('Tipo Itau').item.json.formattedDate
 };
 
 // Retornar o objeto no formato esperado
