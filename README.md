@@ -8,6 +8,9 @@ num primeiro momento estou enviando para um webhook n8n e adicionando numa plani
 ### Compra no crédito aprovada
 Compra de R$ 28,45 APROVADA em AMAZON MARKETPLACE para cartão final 3456.
 
+### Transferência recebida
+Recebemos sua transferência de R$ 130,00.
+
 ## Inter
 ### Uso do Inter Tag
 Você passou sem interrupções por Passagem*SP-360 - Jundiai - Norte, do dia 17/09/2024 07:45, o valor de R$ 5.80 foi debitado da sua conta.
