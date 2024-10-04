@@ -18,6 +18,9 @@ Você passou sem interrupções por Passagem*SP-360 - Jundiai - Norte, do dia 17
 ### 
 Olá José, você acaba de comprar no débito no OkeoMinimercado JUNDIAI BRA o valor de R$ 9,99.
 
+### Tudo certo com seu pagamento de Inter Tag
+O plano de Inter Tag, no valor de 5.00,  foi debitado da sua conta. Continue aproveitando seus benefícios.
+
 ## Itaú
 ### Pix recebido com sucesso
 Você recebeu um Pix de José XXX.456.789-XX do(a) PICPAY, no valor de R$ 167,00 em 20/09/2024.
